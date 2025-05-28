@@ -9,8 +9,6 @@ const rl = readLine.createInterface({
     output: process.stdout
 })
 
-// 0x6a767439d7ebc8c954d1e6d51d8dab1fad7fb76383c59532805cd316ee331647
-// 0x957D7661D94B2F4107D18673E8f10457Ae2A7637
 
 let myAddress = null;
 
